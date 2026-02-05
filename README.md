@@ -56,31 +56,7 @@
 
 </div>
 
-**🎯 Operational Excellence:**
-
-✅ **Malware Defense** - Reduced incidents through strategic defensive tool deployment  
-✅ **Alert Analysis** - 100% accuracy in security alert documentation  
-✅ **Security Posture** - Enhanced through continuous monitoring and threat detection  
-✅ **Incident Response** - Rapid mitigation strategies minimizing impact  
-
 **📈 Security Impact:** Fortified organizational defense infrastructure and established robust incident response protocols.
----
-
-### 🖥️ **System Administrator** | NUST Cyber-Team
-**Feb 2024 - Oct 2024** | *Windhoek, Namibia*
-
-| Category | Details |
-|----------|---------|
-| **🔧 Services Managed** | DNS, DHCP, AWS Route 53 |
-| **📋 Key Responsibilities** | • System deployment and network maintenance<br>• Proactive monitoring and troubleshooting<br>• Backup management and disaster recovery<br>• Process documentation and standardization |
-| **📈 Impact** | Enhanced system reliability and uptime |
-
-**Key Achievements:**
-- ⚙️ Deployed and maintained critical network infrastructure (DNS, DHCP, Route 53)
-- 📈 Improved system reliability through proactive monitoring and maintenance
-- 🔄 Implemented robust backup strategies ensuring business continuity
-- 📝 Created comprehensive technical documentation for operational procedures
-
 ---
 
 ## 🏆 AWARDS & ACHIEVEMENTS
@@ -169,36 +145,6 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-### 💼 **Point of Sale (POS) System**
-**Tech Stack:** Java, Swing, OOP Design Patterns  
-*Full-featured retail management system with inventory tracking and transaction processing*
-
----
-
-### 👥 **User Management System**
-**Tech Stack:** Java / Python, Database Integration  
-*Secure authentication and authorization system with role-based access control*
-
----
-
-### 📊 **Log Analysis Script**
-**Tech Stack:** Python, Regex, Data Processing  
-*Automated security log parser for threat detection and incident investigation*
-
----
-
-### 🌐 **Portfolio Website**
-**Tech Stack:** HTML5, CSS3, JavaScript  
-*Responsive personal portfolio showcasing projects and technical skills*
-
-</div>
-
----
-
 ## 📈 GITHUB ANALYTICS
 
 <div align="center">
@@ -210,27 +156,6 @@
 </p>
 
 </div>
-<div align="center">
-
-## 💭 SECURITY PHILOSOPHY
-
-*"The best defense is understanding the offense"* 🛡️
-
-*"In cybersecurity, vigilance is not paranoia—it's professionalism"* 🔐
-
-*"Code with security in mind, deploy with confidence"* 💻
-
----
-
-### ⭐ If my work adds value, star my repositories!
-
-### 🔒 Defending systems | 💻 Building securely | 🚀 Learning continuously
-
-<br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-<br/>
 
 **Built with 💚 by Jacinto Tchayevala | SOC Analyst | Cybersecurity Enthusiast**
 
