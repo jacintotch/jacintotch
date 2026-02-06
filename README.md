@@ -109,28 +109,6 @@
 
 ---
 
-## 🎓 EDUCATION
-
-### 🎓 **Bachelor of Science in Cybersecurity**
-**Namibia University of Science and Technology (NUST)** | *Feb 2024 - Present*  
-📍 Windhoek, Namibia
-
-**Core Curriculum:**
-- 🔐 Network Security & Defense
-- 🛡️ Incident Response & Forensics
-- 🔑 Cryptography & Applied Mathematics
-- 💻 Secure Software Development
-- 🎯 Threat Modeling & Risk Assessment
-- 🔬 Penetration Testing & Ethical Hacking
-
----
-
-### 🎓 **Computer Engineering**
-**Universidade José Eduardo dos Santos**  
-📍 Huambo, Angola
-
----
-
 ## 🌍 LANGUAGES
 
 <div align="center">
