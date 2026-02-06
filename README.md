@@ -156,8 +156,8 @@
 
 </div>
 
+<div align="center">
 **Built with 💚 by Jacinto Tchayevala | SOC Analyst | Cybersecurity Enthusiast**
-
 </div>
 
 ---
