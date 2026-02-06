@@ -15,7 +15,6 @@
 
 ---
 
-**cybersecurity**, **system administration**, and **networked environments**. Proven track record in **security monitoring**, **incident response**, and **defensive security operations**. Specialized in building secure, efficient applications while maintaining critical infrastructure. Award-winning programmer and CTF competitor with hands-on experience in **threat detection**, **system hardening**, and **security automation**.
 
 ### 🚀 CURRENT FOCUS:
 - 🔍 **Security Monitoring**: Real-time threat detection and incident analysis at NUST SOC
