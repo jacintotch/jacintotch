@@ -15,18 +15,6 @@
 
 ---
 
-## 🎯 PROFESSIONAL SUMMARY
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  🛡️  NUST Cyber-Team                                         ║
-║  🖥️  System Administrator & Security Engineer                ║
-║  💻  Junior Software Developer & Security Researcher         ║
-║  🏆  3rd Place - NUST Programming Competition 2024           ║
-║  🥇  Best Team Defender - 11th Namibian Cyber Challenge      ║
-║  🔐  Offensive & Defensive Security Specialist               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
 **cybersecurity**, **system administration**, and **networked environments**. Proven track record in **security monitoring**, **incident response**, and **defensive security operations**. Specialized in building secure, efficient applications while maintaining critical infrastructure. Award-winning programmer and CTF competitor with hands-on experience in **threat detection**, **system hardening**, and **security automation**.
 
 ### 🚀 CURRENT FOCUS:
@@ -44,7 +32,7 @@
 ### 🛡️ **SOC Analyst** | NUST Cyber-Team
 **Feb 2025 - Present** | *Windhoek, Namibia*
 
-<div >
+<div align="center">
 
 | 🔐 SOC OPERATIONS DOMAIN |
 |:------------------------:|
